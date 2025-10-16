@@ -1,0 +1,20 @@
+{
+    "H2O": {
+        "name": "Water",
+        "weight": 18.02,
+        "state": "Liquid",
+        "uses": ["Drinking", "Cooling"]
+    },
+    "C6H12O6": {
+        "name": "Glucose",
+        "weight": 180.16,
+        "state": "Solid",
+        "uses": ["Energy", "Respiration"]
+    },
+    "NaCl": {
+        "name": "Salt",
+        "weight": 58.44,
+        "state": "Solid",
+        "uses": ["Seasoning", "Preservative"]
+    }
+}

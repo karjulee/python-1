@@ -1,0 +1,10 @@
+apple,1.32
+banana,0.55
+orange,0.88
+grape,2.2
+pear,1.65
+kiwi,1.98
+mango,2.75
+peach,1.87
+plum,1.43
+cherry,3.3
