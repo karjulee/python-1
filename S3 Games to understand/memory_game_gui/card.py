@@ -15,7 +15,7 @@ class Card:
         self.back.shape(self.back_image_file)
 
 
-
+ # karju
     def setup_position(self, x, y):
         self.front.penup()
         self.back.penup()
