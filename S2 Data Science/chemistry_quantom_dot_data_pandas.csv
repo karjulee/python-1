@@ -1,0 +1,501 @@
+Wavelength (nm),Material Type,Surface Ligand,Quantum Yield (%),Particle Size (nm)
+570.8,CdSe,Oleic acid,68.3,4.04
+599.6,InP,MPA,51.9,3.76
+569.6,InP,PEG,80.5,3.33
+571.2,CdSe,PEG,71.5,4.03
+575.5,CdSe,Oleic acid,97.0,4.09
+1234.4,PbS,TOPO,44.3,5.32
+1390.6,PbS,PEG,36.4,6.43
+574.2,InP,Oleic acid,37.7,3.22
+557.0,CdSe,MPA,71.4,3.59
+550.0,InP,Oleic acid,54.0,2.46
+574.4,CdSe,Oleic acid,52.9,3.82
+946.4,PbS,Oleic acid,56.7,3.28
+538.1,InP,PEG,53.3,2.35
+579.9,InP,Oleic acid,60.3,3.64
+561.4,InP,Oleic acid,73.6,2.94
+1379.6,PbS,Oleic acid,67.5,6.46
+553.0,CdSe,Oleic acid,72.5,3.41
+1325.7,PbS,MPA,50.1,5.95
+1120.2,PbS,MPA,27.1,4.65
+539.9,InP,PEG,48.0,2.94
+655.1,CdSe,Oleic acid,67.9,6.0
+524.5,InP,MPA,53.6,2.0
+546.3,CdSe,PEG,63.2,3.42
+601.9,InP,Oleic acid,66.6,3.91
+520.3,InP,MPA,54.9,2.0
+564.2,InP,PEG,57.7,3.11
+624.7,CdSe,Oleic acid,76.0,5.15
+571.4,CdSe,Oleic acid,64.6,3.79
+544.2,CdSe,TOPO,79.8,3.27
+510.1,InP,MPA,40.8,2.0
+587.0,CdSe,Oleic acid,71.9,4.36
+552.9,CdSe,Oleic acid,71.0,3.36
+577.0,CdSe,Oleic acid,65.7,4.32
+556.1,CdSe,TOPO,82.7,3.49
+558.0,CdSe,Oleic acid,66.8,3.53
+582.9,CdSe,Oleic acid,82.6,4.2
+510.4,InP,MPA,33.3,2.0
+595.0,CdSe,PEG,81.4,4.34
+526.5,CdSe,Oleic acid,64.7,2.62
+578.4,InP,Oleic acid,42.0,3.21
+582.9,CdSe,Oleic acid,86.3,4.52
+584.6,InP,PEG,73.8,3.6
+625.0,CdSe,PEG,76.7,5.2
+583.3,CdSe,TOPO,95.7,4.03
+533.4,InP,Oleic acid,53.7,2.23
+558.6,CdSe,PEG,78.8,3.68
+518.3,CdSe,Oleic acid,77.5,2.62
+591.6,InP,Oleic acid,57.8,3.73
+566.7,InP,PEG,79.0,3.31
+1256.0,PbS,TOPO,60.4,5.51
+583.8,CdSe,Oleic acid,62.8,4.06
+582.2,InP,PEG,55.2,3.45
+1156.9,PbS,Oleic acid,31.2,4.8
+570.3,CdSe,Oleic acid,86.7,3.8
+581.6,CdSe,Oleic acid,72.6,4.35
+1248.8,PbS,PEG,32.1,5.45
+507.9,CdSe,TOPO,97.0,2.17
+562.6,CdSe,MPA,45.2,3.87
+545.0,InP,MPA,27.2,2.7
+565.7,InP,Oleic acid,60.0,2.95
+564.9,InP,Oleic acid,64.7,3.07
+591.1,CdSe,Oleic acid,81.2,4.32
+569.0,CdSe,TOPO,69.1,3.81
+583.3,CdSe,Oleic acid,73.1,4.44
+624.4,InP,Oleic acid,62.9,4.4
+1151.3,PbS,TOPO,47.9,4.67
+1308.9,PbS,Oleic acid,54.1,5.87
+551.8,CdSe,TOPO,70.1,3.62
+546.9,InP,MPA,46.8,2.66
+586.9,InP,PEG,69.7,3.64
+586.5,CdSe,TOPO,80.0,4.29
+556.9,InP,MPA,63.6,3.02
+569.1,InP,Oleic acid,62.7,3.14
+590.9,InP,PEG,66.5,3.8
+572.2,InP,MPA,72.7,3.27
+573.2,CdSe,PEG,68.8,3.7
+589.7,CdSe,TOPO,72.9,4.35
+570.7,CdSe,PEG,86.3,3.87
+971.8,PbS,Oleic acid,39.1,3.58
+1164.7,PbS,Oleic acid,36.5,4.86
+1330.7,PbS,Oleic acid,54.7,6.07
+537.0,InP,Oleic acid,50.4,2.5
+592.5,CdSe,Oleic acid,60.3,4.52
+519.4,CdSe,TOPO,81.1,2.8
+557.4,InP,Oleic acid,48.2,3.26
+547.7,CdSe,MPA,65.1,3.25
+514.2,InP,Oleic acid,72.0,2.23
+607.4,CdSe,TOPO,80.1,4.68
+1122.1,PbS,TOPO,38.2,4.64
+538.7,InP,MPA,68.3,2.6
+1297.2,PbS,TOPO,35.9,5.83
+1213.1,PbS,TOPO,40.0,5.19
+562.2,InP,Oleic acid,67.4,3.0
+921.2,PbS,Oleic acid,53.9,3.14
+1028.1,PbS,Oleic acid,74.6,3.86
+587.6,InP,Oleic acid,61.4,3.47
+531.3,CdSe,MPA,56.1,3.02
+1133.7,PbS,PEG,41.2,4.56
+529.8,CdSe,TOPO,61.7,2.96
+571.9,CdSe,TOPO,83.7,3.84
+588.1,CdSe,MPA,82.4,4.26
+558.0,CdSe,TOPO,69.1,3.48
+582.2,CdSe,MPA,72.8,4.22
+579.3,InP,Oleic acid,64.0,3.37
+578.4,InP,MPA,66.4,3.39
+580.5,CdSe,Oleic acid,73.4,3.98
+1267.2,PbS,Oleic acid,51.1,5.57
+1298.4,PbS,Oleic acid,41.7,5.8
+563.5,InP,PEG,82.0,2.81
+574.4,InP,MPA,53.9,3.37
+633.3,CdSe,Oleic acid,78.2,5.84
+572.7,InP,PEG,63.2,2.9
+527.0,CdSe,MPA,67.1,2.56
+591.9,InP,Oleic acid,80.9,3.66
+578.4,InP,PEG,62.3,3.25
+558.3,InP,Oleic acid,49.0,3.23
+542.1,CdSe,Oleic acid,89.5,3.05
+552.6,InP,PEG,53.5,2.74
+1270.9,PbS,Oleic acid,47.2,5.68
+1095.7,PbS,MPA,55.8,4.38
+571.6,CdSe,TOPO,86.2,3.82
+565.7,CdSe,PEG,77.4,3.62
+552.4,InP,PEG,62.2,2.89
+563.1,InP,Oleic acid,54.2,2.77
+583.2,CdSe,PEG,77.9,4.19
+528.7,CdSe,TOPO,91.4,2.69
+596.4,CdSe,Oleic acid,63.9,4.59
+528.7,CdSe,Oleic acid,73.8,2.76
+540.6,CdSe,Oleic acid,81.0,3.05
+581.7,CdSe,TOPO,79.1,4.14
+520.2,InP,PEG,49.6,2.0
+557.7,InP,Oleic acid,63.0,2.8
+624.1,InP,MPA,34.5,3.95
+1279.2,PbS,PEG,40.5,5.66
+1266.0,PbS,MPA,55.3,5.66
+632.4,InP,PEG,84.4,4.58
+564.2,CdSe,MPA,76.0,3.84
+581.8,InP,MPA,48.8,3.67
+546.4,CdSe,Oleic acid,73.2,3.28
+1382.4,PbS,TOPO,29.1,6.54
+585.8,CdSe,TOPO,74.8,3.94
+543.8,InP,Oleic acid,66.1,2.75
+608.8,InP,Oleic acid,46.2,4.09
+1109.2,PbS,PEG,56.2,4.58
+574.8,InP,PEG,82.4,3.2
+580.2,InP,Oleic acid,66.0,3.33
+617.4,InP,Oleic acid,82.9,4.3
+1405.7,PbS,Oleic acid,59.2,6.73
+541.7,CdSe,TOPO,86.7,3.37
+567.7,InP,Oleic acid,61.0,3.18
+569.4,InP,MPA,37.2,3.08
+600.9,InP,PEG,57.8,3.95
+1172.5,PbS,Oleic acid,57.4,4.92
+568.3,CdSe,Oleic acid,70.4,3.8
+1151.9,PbS,Oleic acid,54.4,4.66
+600.5,CdSe,TOPO,91.3,4.48
+554.6,CdSe,Oleic acid,82.1,3.77
+546.4,InP,MPA,50.1,2.7
+1028.7,PbS,TOPO,16.0,3.88
+606.0,CdSe,TOPO,64.1,4.65
+1175.7,PbS,Oleic acid,34.6,4.96
+589.6,CdSe,PEG,82.8,4.37
+517.6,InP,PEG,48.8,2.0
+564.9,InP,MPA,47.5,2.98
+507.0,InP,PEG,59.6,2.0
+537.6,CdSe,Oleic acid,75.5,2.95
+516.2,InP,Oleic acid,89.0,2.0
+568.1,InP,Oleic acid,52.3,2.93
+555.7,CdSe,Oleic acid,67.4,3.74
+518.1,InP,PEG,56.0,2.0
+570.6,CdSe,TOPO,66.7,3.84
+509.6,CdSe,Oleic acid,61.9,2.46
+562.8,CdSe,MPA,79.0,3.5
+618.9,InP,MPA,51.9,4.12
+564.9,InP,MPA,37.2,3.14
+629.0,InP,Oleic acid,40.5,4.29
+534.2,CdSe,Oleic acid,69.1,2.96
+566.9,CdSe,Oleic acid,68.2,3.77
+558.7,InP,Oleic acid,55.1,2.97
+579.0,CdSe,Oleic acid,58.2,4.43
+570.9,CdSe,Oleic acid,75.6,3.68
+560.8,CdSe,Oleic acid,84.8,3.5
+576.4,CdSe,PEG,60.5,4.04
+636.9,InP,Oleic acid,71.7,4.54
+525.7,CdSe,TOPO,96.1,3.07
+1029.3,PbS,PEG,15.0,3.88
+595.0,CdSe,Oleic acid,91.8,4.69
+554.1,InP,Oleic acid,59.0,2.78
+589.7,InP,MPA,50.7,3.35
+1208.7,PbS,PEG,39.4,5.22
+563.7,InP,MPA,58.5,3.07
+564.1,InP,MPA,57.9,2.89
+538.3,InP,MPA,56.3,2.45
+536.9,InP,PEG,50.8,2.48
+587.8,InP,Oleic acid,35.8,3.92
+591.2,InP,PEG,49.8,3.56
+572.9,CdSe,TOPO,92.6,3.76
+552.2,CdSe,TOPO,66.1,3.33
+617.2,InP,Oleic acid,36.2,4.33
+571.6,CdSe,PEG,82.7,3.88
+597.3,CdSe,Oleic acid,61.0,4.53
+597.0,InP,PEG,90.0,3.64
+594.7,CdSe,Oleic acid,66.5,4.52
+571.2,InP,Oleic acid,51.9,3.01
+1269.3,PbS,Oleic acid,57.6,5.62
+583.8,InP,MPA,51.2,3.94
+580.5,InP,PEG,58.1,3.48
+545.2,InP,MPA,40.1,2.75
+549.4,InP,PEG,47.6,2.95
+571.7,InP,MPA,42.0,3.23
+596.8,InP,Oleic acid,57.4,3.67
+583.7,CdSe,MPA,94.1,4.13
+547.5,CdSe,TOPO,79.3,3.25
+569.9,InP,Oleic acid,77.6,3.51
+586.9,CdSe,Oleic acid,87.5,4.25
+555.1,CdSe,TOPO,89.1,3.55
+540.2,InP,MPA,58.3,2.63
+544.0,CdSe,Oleic acid,69.6,3.55
+587.7,CdSe,TOPO,73.9,4.3
+532.6,CdSe,Oleic acid,72.0,2.82
+621.0,CdSe,TOPO,82.6,5.01
+549.1,CdSe,TOPO,84.4,3.24
+603.0,InP,Oleic acid,54.5,3.67
+1180.0,PbS,Oleic acid,56.6,5.06
+1539.3,PbS,TOPO,40.1,7.41
+540.2,CdSe,TOPO,81.5,2.84
+562.5,CdSe,Oleic acid,65.0,3.96
+1084.9,PbS,Oleic acid,68.5,4.48
+1196.9,PbS,PEG,65.6,5.12
+581.2,CdSe,Oleic acid,97.0,4.05
+613.4,CdSe,TOPO,77.6,5.04
+1304.8,PbS,MPA,34.4,5.9
+542.4,CdSe,MPA,63.7,3.27
+1572.4,PbS,Oleic acid,57.0,7.77
+557.3,InP,MPA,61.8,2.79
+563.3,InP,MPA,51.3,3.15
+565.5,InP,Oleic acid,69.8,2.93
+596.2,InP,PEG,78.1,3.71
+543.1,InP,MPA,41.0,2.64
+570.3,CdSe,Oleic acid,63.4,4.02
+516.4,CdSe,MPA,56.1,2.53
+517.4,CdSe,Oleic acid,55.1,2.52
+564.9,CdSe,Oleic acid,53.9,3.65
+1105.6,PbS,TOPO,48.9,4.27
+589.2,CdSe,Oleic acid,72.3,4.26
+1025.6,PbS,TOPO,61.4,3.79
+1285.8,PbS,Oleic acid,46.8,5.56
+593.7,CdSe,Oleic acid,62.1,4.49
+539.2,CdSe,TOPO,84.8,3.1
+577.9,CdSe,Oleic acid,78.7,3.96
+550.5,CdSe,Oleic acid,81.3,3.14
+1114.8,PbS,TOPO,44.9,4.48
+561.8,InP,Oleic acid,48.5,2.88
+577.4,CdSe,TOPO,63.5,4.2
+579.2,CdSe,Oleic acid,76.1,4.1
+1436.4,PbS,Oleic acid,53.6,6.74
+1079.0,PbS,Oleic acid,52.8,4.42
+524.7,InP,PEG,74.9,2.13
+593.2,InP,Oleic acid,63.5,3.49
+1024.7,PbS,Oleic acid,53.1,3.9
+538.0,CdSe,MPA,76.4,3.24
+550.3,CdSe,Oleic acid,67.6,3.23
+1260.1,PbS,TOPO,40.1,5.6
+555.7,InP,PEG,61.8,2.99
+553.9,CdSe,Oleic acid,75.7,3.64
+550.2,CdSe,TOPO,78.1,3.67
+1438.7,PbS,MPA,60.0,6.86
+593.2,InP,PEG,49.5,3.44
+1353.1,PbS,MPA,37.6,6.26
+603.5,CdSe,Oleic acid,64.6,4.91
+541.7,CdSe,Oleic acid,67.6,3.37
+598.1,InP,PEG,65.7,3.91
+535.7,CdSe,MPA,86.1,2.9
+949.3,PbS,Oleic acid,50.2,3.4
+598.6,CdSe,PEG,68.7,4.75
+560.7,InP,MPA,36.3,2.86
+1254.1,PbS,MPA,26.2,5.48
+568.7,CdSe,TOPO,79.7,3.68
+1190.0,PbS,PEG,62.6,5.11
+1173.0,PbS,Oleic acid,54.1,4.9
+920.4,PbS,Oleic acid,35.8,3.06
+1495.6,PbS,MPA,38.8,7.35
+596.1,CdSe,Oleic acid,97.0,4.55
+560.2,CdSe,Oleic acid,66.7,3.52
+1203.9,PbS,Oleic acid,50.8,5.24
+590.9,CdSe,TOPO,77.5,4.44
+1078.4,PbS,Oleic acid,33.4,4.31
+584.9,InP,Oleic acid,31.9,3.32
+570.7,CdSe,Oleic acid,76.6,4.07
+527.1,InP,Oleic acid,75.0,2.15
+536.7,CdSe,MPA,80.4,3.12
+536.9,CdSe,MPA,85.2,2.94
+583.3,InP,MPA,31.3,3.78
+558.8,InP,PEG,70.4,3.23
+559.4,CdSe,Oleic acid,77.2,3.6
+566.0,CdSe,PEG,64.8,3.81
+1240.5,PbS,Oleic acid,55.4,5.52
+553.6,CdSe,MPA,76.7,3.68
+587.0,InP,MPA,29.7,3.45
+548.9,InP,MPA,51.3,2.75
+567.2,CdSe,MPA,65.3,3.88
+946.1,PbS,TOPO,44.9,3.5
+579.1,InP,MPA,62.0,3.34
+582.9,InP,PEG,64.9,3.19
+602.6,InP,Oleic acid,50.8,3.6
+605.8,InP,Oleic acid,77.2,3.79
+567.4,CdSe,Oleic acid,80.1,3.58
+577.4,CdSe,Oleic acid,90.8,4.02
+583.0,CdSe,PEG,66.0,4.09
+540.5,CdSe,MPA,66.6,3.1
+537.1,CdSe,PEG,67.3,2.88
+613.0,CdSe,Oleic acid,76.3,5.03
+618.7,InP,MPA,59.6,4.23
+548.4,CdSe,TOPO,72.7,3.24
+509.5,InP,Oleic acid,48.9,2.0
+562.7,InP,Oleic acid,67.1,3.09
+525.9,CdSe,Oleic acid,73.8,3.0
+518.2,CdSe,PEG,82.7,2.6
+1285.8,PbS,Oleic acid,39.6,5.73
+525.8,InP,Oleic acid,53.5,2.3
+1186.8,PbS,TOPO,52.3,5.04
+566.7,CdSe,TOPO,87.7,3.72
+591.5,CdSe,Oleic acid,97.0,4.39
+566.5,CdSe,Oleic acid,68.1,3.76
+1335.1,PbS,Oleic acid,59.5,6.1
+596.7,InP,Oleic acid,64.9,3.73
+566.8,CdSe,Oleic acid,83.2,3.93
+548.2,InP,MPA,40.3,2.53
+564.5,CdSe,Oleic acid,80.7,3.71
+609.0,CdSe,TOPO,80.1,5.04
+584.7,InP,Oleic acid,46.3,3.37
+584.7,InP,Oleic acid,62.8,3.6
+1242.7,PbS,PEG,48.3,5.37
+588.4,CdSe,TOPO,71.5,4.47
+548.9,CdSe,Oleic acid,88.3,3.4
+1454.6,PbS,Oleic acid,45.3,7.09
+584.3,CdSe,TOPO,64.3,4.19
+565.8,InP,PEG,53.8,3.03
+556.9,InP,Oleic acid,81.9,2.85
+524.8,InP,PEG,70.8,2.36
+584.6,InP,MPA,58.4,3.36
+555.8,CdSe,Oleic acid,80.8,3.67
+1271.7,PbS,PEG,66.3,5.76
+557.8,CdSe,Oleic acid,82.4,3.52
+580.3,InP,Oleic acid,69.3,3.37
+522.2,CdSe,MPA,55.4,2.7
+569.6,CdSe,Oleic acid,82.9,3.87
+625.0,InP,Oleic acid,60.1,4.28
+546.9,CdSe,TOPO,77.8,3.16
+555.8,InP,Oleic acid,57.7,3.19
+530.4,InP,PEG,68.7,2.17
+591.7,InP,Oleic acid,41.4,3.8
+1241.6,PbS,Oleic acid,60.7,5.48
+597.7,InP,PEG,51.5,3.68
+567.6,CdSe,PEG,87.1,3.82
+529.5,InP,Oleic acid,54.8,2.67
+569.4,InP,Oleic acid,54.1,3.32
+578.7,InP,MPA,52.3,3.28
+537.1,InP,PEG,61.3,2.57
+577.2,CdSe,TOPO,73.8,4.03
+600.3,InP,Oleic acid,87.2,3.58
+558.0,InP,Oleic acid,41.2,3.07
+570.4,CdSe,PEG,81.8,3.91
+1303.1,PbS,Oleic acid,75.0,5.96
+1234.9,PbS,Oleic acid,58.5,5.49
+595.6,CdSe,Oleic acid,67.7,4.49
+1235.8,PbS,Oleic acid,59.0,5.55
+565.4,CdSe,PEG,60.6,3.78
+570.9,InP,Oleic acid,50.2,3.21
+597.4,CdSe,TOPO,63.1,4.65
+571.1,InP,PEG,57.2,3.36
+1118.0,PbS,PEG,51.7,4.52
+1253.5,PbS,MPA,46.1,5.59
+582.8,CdSe,Oleic acid,82.6,4.27
+564.3,InP,PEG,65.4,3.05
+559.9,InP,PEG,56.5,2.82
+1340.5,PbS,Oleic acid,45.1,6.14
+1168.2,PbS,PEG,56.1,4.82
+602.5,InP,Oleic acid,62.5,3.76
+593.3,InP,MPA,45.6,3.53
+586.8,InP,Oleic acid,59.9,3.81
+596.2,InP,MPA,74.3,3.98
+1177.2,PbS,TOPO,38.9,5.04
+531.6,CdSe,TOPO,82.4,2.98
+558.3,InP,Oleic acid,71.8,2.88
+565.5,CdSe,TOPO,71.6,3.77
+582.7,CdSe,Oleic acid,79.9,3.95
+560.2,CdSe,Oleic acid,51.1,3.42
+527.0,InP,Oleic acid,37.7,2.5
+586.3,CdSe,TOPO,97.0,4.49
+517.7,CdSe,PEG,72.7,2.91
+568.6,InP,Oleic acid,39.2,2.97
+570.3,InP,Oleic acid,87.9,3.11
+624.9,InP,MPA,55.8,4.4
+560.3,CdSe,MPA,52.9,3.66
+571.5,InP,PEG,65.4,3.36
+1359.7,PbS,Oleic acid,20.0,6.32
+555.6,CdSe,Oleic acid,72.7,3.66
+599.9,CdSe,Oleic acid,70.0,4.63
+529.5,CdSe,TOPO,81.0,3.09
+567.7,InP,Oleic acid,56.3,3.03
+1193.1,PbS,TOPO,34.2,4.97
+546.8,InP,Oleic acid,73.4,2.65
+1200.7,PbS,Oleic acid,43.6,5.07
+561.8,InP,Oleic acid,63.1,2.85
+549.1,CdSe,PEG,72.6,3.35
+576.7,CdSe,TOPO,88.2,4.07
+549.6,CdSe,TOPO,71.5,3.25
+1269.8,PbS,Oleic acid,49.0,5.47
+601.9,CdSe,Oleic acid,57.2,4.75
+545.5,InP,PEG,54.7,2.62
+538.7,CdSe,Oleic acid,61.0,2.86
+563.1,CdSe,TOPO,55.9,3.62
+543.5,CdSe,Oleic acid,97.0,3.3
+580.6,InP,PEG,50.1,3.47
+544.1,CdSe,TOPO,79.6,2.96
+523.8,CdSe,MPA,68.6,2.91
+605.0,InP,PEG,84.5,3.72
+542.0,InP,MPA,56.8,2.5
+559.9,InP,PEG,59.1,3.02
+548.3,InP,Oleic acid,55.8,2.83
+550.0,CdSe,Oleic acid,61.2,3.39
+568.7,InP,Oleic acid,54.1,2.91
+568.8,InP,MPA,28.8,3.32
+551.9,CdSe,Oleic acid,82.9,3.38
+551.6,CdSe,Oleic acid,64.8,3.34
+536.2,InP,Oleic acid,50.7,2.49
+621.2,CdSe,TOPO,70.8,5.05
+574.5,CdSe,TOPO,82.8,3.81
+531.2,InP,MPA,70.6,2.39
+613.1,CdSe,TOPO,76.1,4.84
+586.0,InP,PEG,69.6,3.35
+553.0,CdSe,TOPO,88.1,3.29
+573.3,CdSe,Oleic acid,73.5,3.88
+544.4,CdSe,Oleic acid,77.6,3.52
+1173.5,PbS,Oleic acid,21.9,5.09
+545.4,CdSe,Oleic acid,80.0,3.1
+554.0,CdSe,PEG,75.4,3.43
+575.0,CdSe,Oleic acid,78.9,3.57
+548.5,CdSe,Oleic acid,71.7,3.59
+584.0,InP,PEG,69.6,3.47
+560.8,InP,Oleic acid,60.9,3.01
+591.6,InP,Oleic acid,61.2,3.82
+1131.8,PbS,TOPO,50.7,4.61
+577.6,CdSe,Oleic acid,85.2,4.13
+561.3,CdSe,Oleic acid,74.5,3.84
+1226.2,PbS,TOPO,48.4,5.33
+580.6,InP,PEG,59.9,3.32
+584.2,InP,PEG,56.3,3.34
+558.7,CdSe,TOPO,83.8,4.04
+1248.4,PbS,TOPO,48.5,5.41
+605.8,InP,Oleic acid,61.2,4.05
+604.1,InP,MPA,53.4,3.84
+1475.2,PbS,Oleic acid,35.3,6.94
+553.7,InP,PEG,75.3,2.55
+539.4,InP,PEG,69.5,2.38
+1231.0,PbS,Oleic acid,58.7,5.45
+507.1,CdSe,Oleic acid,44.5,2.0
+533.9,CdSe,PEG,75.5,3.07
+579.6,CdSe,Oleic acid,61.8,4.06
+595.0,InP,Oleic acid,59.0,3.9
+594.9,CdSe,TOPO,73.0,4.49
+558.7,CdSe,TOPO,82.5,3.66
+581.3,InP,PEG,55.7,3.25
+547.9,InP,MPA,51.3,2.96
+566.0,CdSe,MPA,67.6,3.64
+1293.2,PbS,Oleic acid,63.0,5.75
+1324.0,PbS,Oleic acid,15.0,6.02
+567.3,CdSe,MPA,61.7,3.89
+558.3,InP,PEG,56.6,3.11
+617.8,CdSe,PEG,71.3,5.06
+546.0,CdSe,TOPO,70.0,3.62
+601.0,InP,Oleic acid,42.7,4.15
+574.9,InP,Oleic acid,68.8,3.28
+583.1,CdSe,PEG,83.8,4.34
+519.9,CdSe,PEG,75.0,2.46
+1303.2,PbS,PEG,63.7,5.81
+1160.3,PbS,PEG,32.4,4.74
+592.0,CdSe,TOPO,76.8,4.75
+606.0,CdSe,Oleic acid,59.9,4.67
+1285.9,PbS,Oleic acid,38.8,5.69
+554.0,CdSe,TOPO,87.6,3.35
+566.4,CdSe,Oleic acid,62.2,3.86
+541.8,CdSe,PEG,74.2,3.17
+533.0,CdSe,TOPO,84.6,2.81
+570.5,InP,PEG,60.2,3.1
+520.7,CdSe,TOPO,70.2,2.44
+1239.7,PbS,MPA,39.7,5.56
+574.0,InP,Oleic acid,37.5,3.13
+544.8,InP,Oleic acid,72.6,2.58
+556.3,CdSe,MPA,76.2,3.62
+570.9,CdSe,TOPO,83.9,4.14
+556.6,CdSe,TOPO,76.8,3.71
+590.0,CdSe,Oleic acid,78.9,4.29
+556.0,CdSe,TOPO,61.3,3.42
+529.8,CdSe,Oleic acid,69.2,2.86
+607.2,CdSe,PEG,50.6,4.92
+562.3,CdSe,TOPO,72.2,3.85
+565.9,InP,MPA,81.6,3.15
+576.4,CdSe,Oleic acid,71.0,4.31
