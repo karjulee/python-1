@@ -28,12 +28,13 @@ class Card:
 if __name__ == "__main__": # if i import this file this part will not run
     # register shape
 
-    turtle.Screen().register_shape(r"S3 Games to understand\memory_game_gui\images\dog2.gif")
-    turtle.Screen().register_shape(r"S3 Games to understand\memory_game_gui\back.gif")
+    turtle.Screen().register_shape(r"S3 Games to understand/memory_game_gui/images/" \
+    "dog2.gif")
+    turtle.Screen().register_shape(r"S3 Games to understand/memory_game_gui/back.gif")
 
-    card = Card(r"S3 Games to understand\memory_game_gui\images\dog2.gif", r"S3 Games to understand\memory_game_gui\back.gif")
-    input("Press Enter to show front")
-    card.setup_position(0, 0)
+    card = Card(r"S3 Games to understand/memory_game_gui/images/dog2.gif", r"S3 Games to understand/memory_game_gui/back.gif")
+
+    card.setup_position(100, 0)
     input("Press Enter to show front")
     card.show_front()
     input("Press Enter to show back")
