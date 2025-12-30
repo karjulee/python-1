@@ -13,11 +13,18 @@ print(back_image_path)
 allfiles_path2x = allfiles_path*2
 random.shuffle(allfiles_path2x)
 
+
 # screen settings
 screen = turtle.Screen()
 screen.title("Memory Game")
 screen.setup(width=1.0, height=1.0)
 screen.bgcolor("lightblue")
+
+
+# register all shapes on screen
+for each in allfiles_path2x:
+    screen.register_shape(os.path.join(file_paths, each))
+screen.register_shape(back_image_path)
 
 screen.tracer(0)
 xpos = -300
